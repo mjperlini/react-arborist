@@ -35,7 +35,7 @@ const Home: NextPage = () => {
                 In this demo, we recreate the Gmail sidebar to demonstrate how
                 you can style a tree any way you want.
               </p>
-              <Link href="/gmail">View Demo</Link>
+              {/* <Link href="/gmail">View Demo</Link> */}
             </div>
           </Link>
 
@@ -49,7 +49,7 @@ const Home: NextPage = () => {
                 state to demonstrate how the tree performs with over 30,000
                 nodes.
               </p>
-              <Link href="/cities">View Demo</Link>
+              {/* <Link href="/cities">View Demo</Link> */}
             </div>
           </Link>
         </div>
